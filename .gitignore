@@ -1,0 +1,12 @@
+# Virtual environment (recreate with: pip install -r requirements.txt)
+.venv/
+
+# PyCharm settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files created by main.py
+*.csv
